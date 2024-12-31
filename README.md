@@ -1,49 +1,48 @@
-#!/bin/bash
+# React Native Shopping List
 
-echo "# React Native Shopping List"
-echo ""
-echo "## ShopingList_Reactnative_Expo"
-echo ""
-echo "This project is a shopping list app built using React Native and Expo."
-echo ""
-echo "### Demo"
-echo ""
-echo "![Demo GIF](https://github.com/ssinha210/ShopingList_Reactnative_Expo/blob/main/assets/ezgif-4-1d79a5646d.gif)"
-echo ""
-echo "### Features"
-echo "- Add items to the shopping list"
-echo "- Delete items from the shopping list"
-echo "- User-friendly interface"
-echo ""
-echo "### Getting Started"
-echo "1. Clone the repository:"
-echo "   \`\`\`bash"
-echo "   git clone https://github.com/ssinha210/ShopingList_Reactnative_Expo.git"
-echo "   \`\`\`"
-echo "2. Navigate to the project directory:"
-echo "   \`\`\`bash"
-echo "   cd ShopingList_Reactnative_Expo"
-echo "   \`\`\`"
-echo "3. Install dependencies:"
-echo "   \`\`\`bash"
-echo "   npm install"
-echo "   \`\`\`"
-echo "4. Start the development server:"
-echo "   \`\`\`bash"
-echo "   expo start"
-echo "   \`\`\`"
-echo ""
-echo "### Requirements"
-echo "- Node.js"
-echo "- Expo CLI"
-echo "- A device or emulator to run the app"
-echo ""
-echo "### APK Download"
-echo "You can download the APK here:"
-echo "[Download APK](https://drive.google.com/file/d/17Lvfdod5Z7r56o1FXYHS5aalpq5VOIj_/view?usp=drivesdk)"
-echo ""
-echo "### Contributing"
-echo "Feel free to open a pull request if you'd like to improve the project or add new features."
-echo ""
-echo "### License"
-echo "This project is licensed under the MIT License."
+## ShopingList_Reactnative_Expo
+
+This project is a shopping list app built using React Native and Expo.
+[Download APK](https://drive.google.com/file/d/17Lvfdod5Z7r56o1FXYHS5aalpq5VOIj_/view?usp=drivesdk)
+
+### Demo
+
+![Demo GIF](https://github.com/ssinha210/ShopingList_Reactnative_Expo/blob/main/assets/ezgif-4-1d79a5646d.gif)
+
+### Features
+- Add items to the shopping list
+- Delete items from the shopping list
+- User-friendly interface
+
+### Getting Started
+1. Clone the repository:
+   \`\`\`bash
+   git clone https://github.com/ssinha210/ShopingList_Reactnative_Expo.git
+   \`\`\`
+2. Navigate to the project directory:
+   \`\`\`bash
+   cd ShopingList_Reactnative_Expo
+   \`\`\`
+3. Install dependencies:
+   \`\`\`bash
+   npm install
+   \`\`\`
+4. Start the development server:
+   \`\`\`bash
+   expo start
+   \`\`\`
+
+### Requirements
+- Node.js
+- Expo CLI
+- A device or emulator to run the app
+
+### Contributing
+Feel free to open a pull request if you'd like to improve the project or add new features.
+
+### License
+This project is licensed under the MIT License.
+EOL
+
+
+add a download link of apk   https://drive.google.com/file/d/17Lvfdod5Z7r56o1FXYHS5aalpq5VOIj_/view?usp=drivesdk
