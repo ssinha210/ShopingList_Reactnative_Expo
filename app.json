@@ -2,6 +2,13 @@
   "expo": {
     "name": "MyOldExpoApp",
     "slug": "MyOldExpoApp",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "jsEngine": "hermes",
+    "minify": true,
+    "extra": {
+      "eas": {
+        "projectId": "a68a426f-3140-44af-be15-2f1c255b2335"
+      }
+    }
   }
 }
